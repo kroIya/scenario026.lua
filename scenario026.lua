@@ -14,7 +14,7 @@ Good luck.
  
 This scenario is different based on the selected difficulty:
  
-‣ Beginner: You can produce metal income buildings after all. The AI is meant to have no income, pending fix. Ragnarok disabled.
+‣ Beginner: You can produce metal income buildings after all. The AI will not build army units. Ragnarok disabled.
  
 ‣ Novice: You can produce metal income buildings after all. Regular AI difficulty. Ragnarok disabled.
  
